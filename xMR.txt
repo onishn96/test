@@ -1,0 +1,2 @@
+mine.xmrpool.net:3333
+worker
