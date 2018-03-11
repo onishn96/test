@@ -1,0 +1,2 @@
+pool.monero.hashvault.pro:3333
+x
